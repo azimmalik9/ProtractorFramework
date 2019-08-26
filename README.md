@@ -1,4 +1,4 @@
-"# ProtractorFramework" 
-# ProtractorFramework
-# ProtractorFramework
-# ProtractorFramework
+Protract cucumber framework with Chai
+
+tsc
+npm run cucumbertest
