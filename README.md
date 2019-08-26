@@ -1,4 +1,4 @@
-Protract cucumber framework with Chai
+Protract typescript cucumber framework with Chai
 
 tsc
 npm run cucumbertest
